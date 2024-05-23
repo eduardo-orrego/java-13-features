@@ -1,4 +1,4 @@
-package org.example.newtextblocks;
+package org.example.jep355.newtextblocks;
 
 public class NewTextBlocksDemo01 {
     public static void main(String[] args) {

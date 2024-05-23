@@ -1,4 +1,4 @@
-package org.example.newswitchexpression;
+package org.example.jep354.newswitchexpression;
 
 import java.util.Scanner;
 
